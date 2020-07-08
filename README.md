@@ -9,11 +9,11 @@ Here's a quick video we made showing the steps involved when you are creating a 
 1. Go to <https://github.com> and click the **+** menu in the upper-right hand corner and thenc lick **New Repository**
 
    <https://share.getcloudapp.com/jkuQRrnQ>
-1. Give your repository a name like `html-milestones` and a description then click the green **Create Repository** button
+1. Give your repository a name like `really-awesome-project` and a description then click the green **Create Repository** button
 
    <https://share.getcloudapp.com/Wnub6zA1>
 
-   **Note**: You can name your repository anything. We're using `html-milestones` as an example name here. You'll have one repository per project, typically.
+   **Note**: You can name your repository anything. We're using `really-awesome-project` as an example name here. You'll have one repository per project, typically.
 1. You should see a page that looks roughly like this, but containing the information *you* entered: <https://share.getcloudapp.com/lluJXmwX>
 
 Next, you have two options depending on which scenario you're in:
